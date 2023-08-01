@@ -2,6 +2,14 @@
 
 
 <p>Welcome to my page! </br> I'm Joshua, A Full Stack Developer based in Makati, Philippines. </p>
+
+<p>I am thrilled to present to you a comprehensive collection of my skills, projects, and experiences as a Full Stack Developer. With a passion for creating innovative and efficient web applications, I have dedicated my career to mastering both front-end and back-end technologies to deliver seamless user experiences.
+
+
+My main focus these days is building applications for our clients and staff at Affinity Capital Corp. Throughout my journey, I have cultivated expertise in a wide range of programming languages, frameworks, and tools.
+
+
+I invite you to explore my projects and witness firsthand my dedication to creating innovative and impactful digital solutions</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
